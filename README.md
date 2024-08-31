@@ -1,5 +1,5 @@
 [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2021/05/1-1.gif)](https://adityashandilya.vercel.app/)
-<h1 align="center">Hi 👋, I'm Aditya Shandilya</h1>
+<h1 align="center">Hi 👋, I'm Aditya </h1>
 <h3 align="center">A passionate frontend developer, Machine Learning Engineer from India</h3>
 <img align="right" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGkxZmgyb2lhdDU0N2ozd2txNWZyODRjdDBxZnFza3Y4MXgxc3oweCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" alt="coding">
 
