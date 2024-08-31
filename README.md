@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **mern , javascript , ml**
 
-- 📫 How to reach me **aditya.2022a@vitstudent.ac.in**
+- 📫 How to reach me **theaditya.3012@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AX0DAuvT7Qk2a1FflH82FM8yWK3pqSA4/view?usp=sharing](https://drive.google.com/file/d/1AX0DAuvT7Qk2a1FflH82FM8yWK3pqSA4/view?usp=sharing)
 
